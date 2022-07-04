@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange{
+    color: orange;
+}
+.flexiable{
+    display: flex;
+}
+.background-image{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-weight: 900;
+    font-size: 100px;
+}
+h3{
+    font-weight: 900;
+}
+.paragraph{
+    text-align: justify;
+    font-weight: 400;
+}
+.hire-me{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: orange;
+    padding: 10px 40px;
+}
+.max-width{
+    width:50% ;
+    padding-left: 2%;
+}
+.images{
+    width: 30%;
+}
+.second-background{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
